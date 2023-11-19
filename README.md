@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 ![Screenshot from 2023-11-19 21-40-21](https://github.com/moheranus/login-page-nextjs/assets/61871092/377bd6fc-ebf9-4b53-acba-07b208195a05)
-
+ This is nextjs and tailwindcss page ui created for the purpose of learning nextjs and tailwind. you can use this source code free of anything.
 First, run the development server:
 
 ```bash
